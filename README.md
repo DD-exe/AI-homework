@@ -1,1 +1,1 @@
-# AI-homework
+# AI' homework
