@@ -11,6 +11,8 @@
 `main.py` 是接口类的一个用例，用于展示其使用方法。
 
 `imgChanger.py` `noise.py` 是两个工具脚本，前者用于将新数据集的图片转换为模型所需的形式，后者用于在图片中加入噪声。
+
+我们训练了一个模型作为范例，checkpoint文件见链接:https://jbox.sjtu.edu.cn/l/Y1rdHi 。
 ## 接口类classify.py  
 `classify.py` 首先定义`ViolenceClass` 类，其初始化参数包括：
 
